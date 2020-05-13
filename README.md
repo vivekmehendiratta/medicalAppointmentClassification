@@ -10,7 +10,7 @@ For this project, I uused Kaggle open dataset 'Brazil medical appointment' from 
 
     Feature Engineering
     Feature Selection
-    Evaluation of models
+    Model Evaluation Metrics
  
 
 # File Descriptions
