@@ -6,7 +6,7 @@
 
 # Project Motivation
 
-For this project, I uused Kaggle open dataset 'Brazil medical appointment' from 2016 to better enhance my knowledge in:
+For this project, I used Kaggle open dataset 'Brazil medical appointment' from 2016 to better enhance my knowledge in:
 
     Feature Engineering
     Feature Selection
